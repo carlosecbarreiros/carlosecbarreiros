@@ -14,7 +14,7 @@ Um mero estudante de tecnologia na busca de se desenvolver profissionalmente.
     <img align="center" alt="css" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> 
     <img align="center" alt="nodejs" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="mysql" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> 
-</div> 
+    <img align="center" alt="react" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> 
 
 ### Email para contato:
 - cadu1117@hotmail.com
